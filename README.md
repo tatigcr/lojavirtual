@@ -2,7 +2,7 @@
 
 ### :pushpin: Some Skills
 - Node.js 
-    - Bibliotecas:
+    - Libraries:
 - React
 - MongoDB
 
